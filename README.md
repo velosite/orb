@@ -1,9 +1,9 @@
 # [orb](http://orbjs.net/)[<img align="right" src="https://nodei.co/npm/orb.png?compact=true"/>](https://www.npmjs.com/package/orb)
 Pivot grid javascript library.
 
-**Website:** *[orbjs.net](http://orbjs.net/)*
+**Website:** *[orbjs.net](http://orbjs.net/)* - Acesse: https://github.com/velosite/orb/edit/vorb2018
 
-**Latest version:** 1.0.9 ([Release notes](http://orbjs.net/downloads.html#rl))
+**Latest version:** 1.1.0 ([Release notes](http://orbjs.net/downloads.html#rl))
 
 **cdnjs:** https://cdnjs.com/libraries/orb
 
@@ -11,16 +11,16 @@ Pivot grid javascript library.
 
 ![Demo](http://i.imgur.com/xWw6n4t.gif)
 
-### Features
+### Features (Recursos)
 #### Interactivity
-- Drag'n'drop to move fields
-- Click to sort
-- Visual filters
-- Drill down (cell double click)
-- Multiple data fields support
-- Grand totals &amp; Sub totals
-- Sub totals expand/collapse
-- Enhanced scrolling (fixed headers)
+- Drag'n'drop to move fields (Arrastar e Soltar campos)
+- Click to sort (Clique para Organizar os dados)
+- Visual filters (Filtros Visuais)
+- Drill down (cell double click) (Drill das colunas e Duplo clique)
+- Multiple data fields support (Suporte a multiplos campos)
+- Grand totals &amp; Sub totals 
+- Sub totals expand/collapse 
+- Enhanced scrolling (fixed headers) (Scrolling Melhorado
 - Export to Excel <small>*<code>(new in 1.0.9)</code>*</small>
 - Fast rendering using [React](http://facebook.github.io/react/index.html)
 
